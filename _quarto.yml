@@ -9,13 +9,16 @@ website:
         text: Home
       - href: about.qmd
         text: About
-
+      - href: projects.qmd
+        text: Projects
 format:
   html:
     theme:
-      - morph
+      - yeti
       - brand
     css: styles.css
     toc: true
 editor: visual
 
+execute: 
+  freeze: auto

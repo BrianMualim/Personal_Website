@@ -1,16 +1,30 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "personal_website",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n2 + 2\n\n[1] 4\n\n3 + 3\n\n[1] 6"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Brian Mualim",
+    "section": "",
+    "text": "Hey everyone, allow me to introduce myself! My name is Brian Mualim (you can call me Bry for short), and I’m a fourth-year student studying at University of California, Los Angeles. I’m a Statistics and Data Science major with a Specialization in Computer Science.\nI’m a result-driven data enthusiast who thrives on creating pipelines which collects, cleans, processes, and visualizes data in an efficient manner. My motto when working with data is: KISS (Keep it simple, stupid!)\nApart from my academics, I love keeping up with the NBA, as well as going to the gym. I’m also a huge history nerd and have a special place in my heart for topics relating to WW2 and the ancient Roman Empire!"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Brian Mualim",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Los Angeles\nBachelor’s Degree in Statistics and Data Science\nSept 2023 - June 2025\nSanta Monica College\nAssociate’s Degree in Computer Science Feb 2021 - June 2023"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Brian Mualim",
+    "section": "Experience",
+    "text": "Experience\nErnst and Young\nData and Analytics Intern\nJuly 2024 - Sept 2024\nPT Henan Putihrai Asset Management\nData Analytics Intern\nJuly 2023 - August 2023\nSMC Math Lab\nEmbedded Math Tutor\nMarch 2022 - June 2023"
   }
 ]

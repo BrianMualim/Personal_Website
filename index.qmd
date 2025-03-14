@@ -1,14 +1,51 @@
 ---
-title: "personal_website"
+title: "Brian Mualim"
+about:
+  template: trestles
+  image: snowboard_pfp.jpg
+  links:
+    - icon: layout-text-sidebar-reverse
+      text: Resume
+      href: "https://github.com/BrianMualim/Personal_Website/blob/main/Brian_Mualim_resume.pdf"
+    - icon: envelope
+      text: Gmail
+      url: "mailto:brianmualim@g.ucla.edu"
+    - icon: github
+      text: Github
+      href: https://github.com/BrianMualim
+    - icon: spotify
+      text: Spotify
+      href: https://open.spotify.com/user/bmonfire
+    
 ---
 
-This is a Quarto website.
+Hey everyone, allow me to introduce myself! My name is Brian Mualim (you can call me Bry for short), and I’m a **fourth-year student** studying at **University of California, Los Angeles**. I’m a **Statistics and Data Science** major with a Specialization in **Computer Science.**
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I’m a result-driven data enthusiast who thrives on creating pipelines which collects, cleans, processes, and visualizes data in an efficient manner. My motto when working with data is: KISS (Keep it simple, stupid!)
 
-```{r}
-1 + 1
-2 + 2
-3 + 3
+Apart from my academics, I love keeping up with the NBA, as well as going to the gym. I’m also a huge history nerd and have a special place in my heart for topics relating to WW2 and the ancient Roman Empire!
 
-```
+## Education
+
+University of California, Los Angeles  
+Bachelor's Degree in Statistics and Data Science  
+Sept 2023 - June 2025
+
+Santa Monica College  
+Associate's Degree in Computer Science
+Feb 2021 - June 2023  
+
+## Experience
+
+Ernst and Young  
+Data and Analytics Intern  
+July 2024 - Sept 2024  
+
+PT Henan Putihrai Asset Management  
+Data Analytics Intern  
+July 2023 - August 2023  
+
+SMC Math Lab  
+Embedded Math Tutor  
+March 2022 - June 2023  
+---
