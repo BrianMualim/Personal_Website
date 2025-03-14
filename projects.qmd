@@ -1,3 +1,35 @@
 ---
-title: "projects"
+title: "Projects"
+---
+
+
+## Web Scraping the Indonesian Stock Exchange
+A summer project I did which aimed to systematically scrape stock-related data from the official Indonesian Stock Exchange website. Done mostly using Python.
+
+[Read more about it here!](https://www.notion.so/brianmualim/Web-Scraping-the-Indonesian-Stock-Exchange-e35de308c4624af8996c2f73c37162f8)
+
+## Lebron James: Which era is his true prime
+I was curious about which version of Lebron was the best version of him, so I tried to prove it statistically using existing data. 
+
+[Read more about it here!](https://www.notion.so/brianmualim/Lebron-James-Which-era-is-his-true-prime-f221aa814ba54d978e5e5f93311759da)
+
+## NBA What-Ifs: Finding the Offensive Player of the Year
+A spin to the current Defensive Player of the Year award. What if the NBA started giving out these trophies as well, and which players would have won it?
+
+[Read more about it here!](https://www.notion.so/brianmualim/NBA-What-Ifs-Finding-the-Offensive-Player-of-the-Year-ce96968ccb984cdcbbb5bc29958b819b)
+
+## Monopoly and the Statistics behind it
+A class project that explores if buying certain properties would lead to a better likelihood of opponents landing on them. Done using Rstudio and don't worry, I didn't include most of the code.
+
+[Read more about it here!](https://www.notion.so/brianmualim/Monopoly-and-the-Statistics-Behind-it-db7169627f204cd0a8d1ce191ce18368)
+
+## The Effect of Varyiing Alcohol Doses on Arithmetic Performance
+A simulation on how drinking alcohol will affect your mental math. Seriously, the results are quite shocking!
+
+[Read more about it here!](https://www.notion.so/brianmualim/The-Effect-of-Varying-Alcohol-Doses-on-Arithmetic-Performance-0f61bd068c5548a29a625b82c40db62a)
+
+## Applying K-Means Algorithm on Pokemon Abilities
+A pretty cool implementation of the k-means algorithm to group pokemons data. Also talks a bit of how the type of distance matters when implementing the algorithm
+
+[Read more about it here!](https://www.notion.so/brianmualim/Applying-K-Means-Algorithm-on-Pokemon-Abilities-a77a6376981e4d02b12d1ac6a3c0d342)
 ---

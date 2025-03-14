@@ -1,9 +1,44 @@
 ---
-title: "About"
+title: "More about me"
 ---
 
-About this site
 
-```{r}
-1 + 1
-```
+## Past and Current Coursework
+
+- **Statistics and Data Science**
+    - **STATS 10** - Elementary Statistics
+    - **STATS 20** - Statistical Programming using R
+    - **STATS 100A** - Intro to Probability
+    - **STATS 100B** - Intro to Statistics
+    - **STATS 100C** - Linear Models
+    - **STATS 101A** - Data Analysis and Regression
+    - **STATS 101B** - Intro to Design and Analysis of Experiment
+    - **STATS 101C** - Intro to Statistical Models and Data Mining
+    - **STATS 102A** - Computational Statistics with R
+    - **STATS 102B** - Intro to Computation and Optimization for Statistics
+    - **STATS 102C** - Intro to Monte Carlo Methods
+    - **STATS C183** - Statistical Models in Finance
+    - **STATS 140XP** - Practice of Statistical Consulting
+- **Computer Science**
+    - **CS 31 + PIC 10A + CS T01** - Introduction to Programming and Object Oriented Programming
+    - **CS 32** - Data Structures and Algorithm
+    - **CS 33** - Computer Organization in Assembly
+    - **CS M51A -** Logic Design of Digital Systems
+- **Math**
+    - **MATH 31A** - Differential and Integral Calculus
+    - **MATH 31B** - Integration and Infinite Series
+    - **MATH 32A** - Multivariable Calculus 1
+    - **MATH 32B** - Multivariable Calculus 2
+    - **MATH 33A** - Applications of Linear Algebra
+    - **MATH 33B** - Differential Equations
+    - **MATH 115A** - Proof-Based Linear Algebra
+    
+## Community Building
+
+- Commuter Student Ambassador at [Bruin Commuters](https://www.instagram.com/bruin_commuters/?hl=en) (Jan 2025 - Current)
+- Vice President at [Indonesian Bruin Student Association (IBSA)](https://www.instagram.com/smc.isf/) (Aug 2023 - Current)
+- Embedded Math Tutor at [SMC Math Lab](https://www.smc.edu/student-support/academic-support/tutoring-centers/math-lab/) (Mar 2022 - Jun 2023)
+- Vice President of [International Students Forum](https://www.instagram.com/smc.isf/) (Aug 2022 - Dec 2022)
+- Vice President of [SMC Computer Science Club](https://www.instagram.com/csclub.smc/) (Feb 2022 - Jun 2022)
+- Math Tutor at [SMC Alpha Gamma Sigma](https://www.agssmc.org/) (Sep 2021 - Dec 2022)
+---

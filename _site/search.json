@@ -1,10 +1,73 @@
 [
   {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "A summer project I did which aimed to systematically scrape stock-related data from the official Indonesian Stock Exchange website. Done mostly using Python.\nRead more about it here!"
+  },
+  {
+    "objectID": "projects.html#web-scraping-the-indonesian-stock-exchange",
+    "href": "projects.html#web-scraping-the-indonesian-stock-exchange",
+    "title": "Projects",
+    "section": "",
+    "text": "A summer project I did which aimed to systematically scrape stock-related data from the official Indonesian Stock Exchange website. Done mostly using Python.\nRead more about it here!"
+  },
+  {
+    "objectID": "projects.html#lebron-james-which-era-is-his-true-prime",
+    "href": "projects.html#lebron-james-which-era-is-his-true-prime",
+    "title": "Projects",
+    "section": "Lebron James: Which era is his true prime",
+    "text": "Lebron James: Which era is his true prime\nI was curious about which version of Lebron was the best version of him, so I tried to prove it statistically using existing data.\nRead more about it here!"
+  },
+  {
+    "objectID": "projects.html#nba-what-ifs-finding-the-offensive-player-of-the-year",
+    "href": "projects.html#nba-what-ifs-finding-the-offensive-player-of-the-year",
+    "title": "Projects",
+    "section": "NBA What-Ifs: Finding the Offensive Player of the Year",
+    "text": "NBA What-Ifs: Finding the Offensive Player of the Year\nA spin to the current Defensive Player of the Year award. What if the NBA started giving out these trophies as well, and which players would have won it?\nRead more about it here!"
+  },
+  {
+    "objectID": "projects.html#monopoly-and-the-statistics-behind-it",
+    "href": "projects.html#monopoly-and-the-statistics-behind-it",
+    "title": "Projects",
+    "section": "Monopoly and the Statistics behind it",
+    "text": "Monopoly and the Statistics behind it\nA class project that explores if buying certain properties would lead to a better likelihood of opponents landing on them. Done using Rstudio and don’t worry, I didn’t include most of the code.\nRead more about it here!"
+  },
+  {
+    "objectID": "projects.html#the-effect-of-varyiing-alcohol-doses-on-arithmetic-performance",
+    "href": "projects.html#the-effect-of-varyiing-alcohol-doses-on-arithmetic-performance",
+    "title": "Projects",
+    "section": "The Effect of Varyiing Alcohol Doses on Arithmetic Performance",
+    "text": "The Effect of Varyiing Alcohol Doses on Arithmetic Performance\nA simulation on how drinking alcohol will affect your mental math. Seriously, the results are quite shocking!\nRead more about it here!"
+  },
+  {
+    "objectID": "projects.html#applying-k-means-algorithm-on-pokemon-abilities",
+    "href": "projects.html#applying-k-means-algorithm-on-pokemon-abilities",
+    "title": "Projects",
+    "section": "Applying K-Means Algorithm on Pokemon Abilities",
+    "text": "Applying K-Means Algorithm on Pokemon Abilities\nA pretty cool implementation of the k-means algorithm to group pokemons data. Also talks a bit of how the type of distance matters when implementing the algorithm\nRead more about it here!"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "More about me",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Statistics and Data Science\n\nSTATS 10 - Elementary Statistics\nSTATS 20 - Statistical Programming using R\nSTATS 100A - Intro to Probability\nSTATS 100B - Intro to Statistics\nSTATS 100C - Linear Models\nSTATS 101A - Data Analysis and Regression\nSTATS 101B - Intro to Design and Analysis of Experiment\nSTATS 101C - Intro to Statistical Models and Data Mining\nSTATS 102A - Computational Statistics with R\nSTATS 102B - Intro to Computation and Optimization for Statistics\nSTATS 102C - Intro to Monte Carlo Methods\nSTATS C183 - Statistical Models in Finance\nSTATS 140XP - Practice of Statistical Consulting\n\nComputer Science\n\nCS 31 + PIC 10A + CS T01 - Introduction to Programming and Object Oriented Programming\nCS 32 - Data Structures and Algorithm\nCS 33 - Computer Organization in Assembly\nCS M51A - Logic Design of Digital Systems\n\nMath\n\nMATH 31A - Differential and Integral Calculus\nMATH 31B - Integration and Infinite Series\nMATH 32A - Multivariable Calculus 1\nMATH 32B - Multivariable Calculus 2\nMATH 33A - Applications of Linear Algebra\nMATH 33B - Differential Equations\nMATH 115A - Proof-Based Linear Algebra"
+  },
+  {
+    "objectID": "about.html#past-and-current-coursework",
+    "href": "about.html#past-and-current-coursework",
+    "title": "More about me",
+    "section": "",
+    "text": "Statistics and Data Science\n\nSTATS 10 - Elementary Statistics\nSTATS 20 - Statistical Programming using R\nSTATS 100A - Intro to Probability\nSTATS 100B - Intro to Statistics\nSTATS 100C - Linear Models\nSTATS 101A - Data Analysis and Regression\nSTATS 101B - Intro to Design and Analysis of Experiment\nSTATS 101C - Intro to Statistical Models and Data Mining\nSTATS 102A - Computational Statistics with R\nSTATS 102B - Intro to Computation and Optimization for Statistics\nSTATS 102C - Intro to Monte Carlo Methods\nSTATS C183 - Statistical Models in Finance\nSTATS 140XP - Practice of Statistical Consulting\n\nComputer Science\n\nCS 31 + PIC 10A + CS T01 - Introduction to Programming and Object Oriented Programming\nCS 32 - Data Structures and Algorithm\nCS 33 - Computer Organization in Assembly\nCS M51A - Logic Design of Digital Systems\n\nMath\n\nMATH 31A - Differential and Integral Calculus\nMATH 31B - Integration and Infinite Series\nMATH 32A - Multivariable Calculus 1\nMATH 32B - Multivariable Calculus 2\nMATH 33A - Applications of Linear Algebra\nMATH 33B - Differential Equations\nMATH 115A - Proof-Based Linear Algebra"
+  },
+  {
+    "objectID": "about.html#community-building",
+    "href": "about.html#community-building",
+    "title": "More about me",
+    "section": "Community Building",
+    "text": "Community Building\n\nCommuter Student Ambassador at Bruin Commuters (Jan 2025 - Current)\nVice President at Indonesian Bruin Student Association (IBSA) (Aug 2023 - Current)\nEmbedded Math Tutor at SMC Math Lab (Mar 2022 - Jun 2023)\nVice President of International Students Forum (Aug 2022 - Dec 2022)\nVice President of SMC Computer Science Club (Feb 2022 - Jun 2022)\nMath Tutor at SMC Alpha Gamma Sigma (Sep 2021 - Dec 2022)"
   },
   {
     "objectID": "index.html",
